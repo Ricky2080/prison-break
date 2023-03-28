@@ -1,2 +1,2 @@
 # prison-break
-Dataquest Guided Project | Obtain, prepare and analyze prison breaks data
+Dataquest Guided Project | Extract, preview and analyze helicopter prison escapes data
